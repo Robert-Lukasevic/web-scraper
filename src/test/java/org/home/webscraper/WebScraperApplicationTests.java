@@ -1,10 +1,10 @@
-package org.home.webscrapper;
+package org.home.webscraper;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class WebScrapperApplicationTests {
+class WebScraperApplicationTests {
 
 	@Test
 	void contextLoads() {

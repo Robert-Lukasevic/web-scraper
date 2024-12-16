@@ -1,4 +1,4 @@
-package org.home.webscrapper.model;
+package org.home.webscraper.model;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
