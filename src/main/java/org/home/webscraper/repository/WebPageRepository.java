@@ -1,6 +1,6 @@
-package org.home.webscrapper.repository;
+package org.home.webscraper.repository;
 
-import org.home.webscrapper.model.WebPage;
+import org.home.webscraper.model.WebPage;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 
